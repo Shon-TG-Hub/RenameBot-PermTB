@@ -21,9 +21,13 @@ Rename any Telegram Files with Permanent Thumbnail Support
 
 ### Deploy in your vpn
 ```sh
-[![Github](git clone https://github.com/Shon-TG-Hub/RenameBot-PermTB)
+https://github.com/Shon-TG-Hub/RenameBot-PermTB 
+virtualenv -p python3 VENV
+. ./VENV/bin/activate
+pip install -r requirements.txt
+# <Create config.py appropriately>
+python3 -m tobrot
 ```
-
 
 #### 🍁 For Queries and support, contact [Shon](https://telegram.dog/Fabio_TG)
 
