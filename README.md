@@ -33,7 +33,7 @@ python3 -m tobrot
 
 ## Credits, and Thanks to Beloved Developers ;
 
-🍁 [Trackstudio](Https://telegram.me/Trackstudio) <i>Thanks For Repostiry Link<i>
+🍁 <i>[Trackstudio](Https://telegram.me/Trackstudio) <i>Thanks For Repostiry Link<i>
 
 🍁 [Lawliet](Https://telegram.me/alphantime) <i>Thanks For Small Help<i>
 
