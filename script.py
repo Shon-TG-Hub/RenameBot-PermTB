@@ -3,6 +3,8 @@ class script(object):
 
 <b>Send me any Telegram file and choose appropriate option! </b>"""
 
+<i>@Nexonhex<i>
+
     RENAME_403_ERR = "What Are You Doing? You are Banned"
     UPGRADE_TEXT = "CONTACT @Fabio_TG"
     DOWNLOAD_START = "Please Give Me Some Time..."
