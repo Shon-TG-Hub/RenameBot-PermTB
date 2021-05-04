@@ -36,3 +36,5 @@ python3 -m tobrot
 🍁 [Trackstudio](Https://telegram.me/Trackstudio)
 
 🍁 [Lawliet](Https://telegram.me/alphantime)
+
+🍁 [DIAGO !](https://telegram.me/DIAGO_X)
